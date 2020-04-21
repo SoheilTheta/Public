@@ -1,0 +1,74 @@
+ISO,NAME_0,ID_1,NAME_1,ID_2,NAME_2,VARNAME_2,HASC_2,TYPE_2,ENGTYPE_2
+NZL,New Zealand,2125,Auckland,25170,Auckland,,NZ.AU.AL,City,City
+NZL,New Zealand,2125,Auckland,25171,Franklin,,NZ.WK.FK,District,District
+NZL,New Zealand,2125,Auckland,25172,Manukau,,NZ.AU.MK,City,City
+NZL,New Zealand,2138,Waikato,25229,Hamilton,,NZ.WK.HM,City,City
+NZL,New Zealand,2138,Waikato,25230,Hauraki,,NZ.WK.HK,District,District
+NZL,New Zealand,2138,Waikato,25231,Matamata-Piako,,NZ.WK.MP,District,District
+NZL,New Zealand,2138,Waikato,25232,Otorohanga,,NZ.WK.OH,District,District
+NZL,New Zealand,2138,Waikato,25233,Rotorua,,NZ.WK.RR,District,District
+NZL,New Zealand,2138,Waikato,25234,South Waikato,,NZ.WK.SW,District,District
+NZL,New Zealand,2138,Waikato,25235,Taupo,,NZ.WK.TP,District,District
+NZL,New Zealand,2138,Waikato,25236,Thames-Coromandel,,NZ.WK.TC,District,District
+NZL,New Zealand,2125,Auckland,25173,Rodney,,NZ.AU.RD,District,District
+NZL,New Zealand,2125,Auckland,25174,Waitakere,,NZ.AU.WA,City,City
+NZL,New Zealand,2126,Bay of Plenty,25175,Opotiki,,NZ.BP.OP,District,District
+NZL,New Zealand,2126,Bay of Plenty,25176,Rotorua,,NZ.WK.RR,District,District
+NZL,New Zealand,2126,Bay of Plenty,25177,Taupo,,NZ.WK.TP,District,District
+NZL,New Zealand,2126,Bay of Plenty,25178,Western Bay of Plenty,,NZ.BP.WB,District,District
+NZL,New Zealand,2126,Bay of Plenty,25179,Whakatane,,NZ.BP.WH,District,District
+NZL,New Zealand,2127,Canterbury,25180,Ashburton,,NZ.CA.AB,District,District
+NZL,New Zealand,2127,Canterbury,25182,Christchurch,,NZ.CA.CC,City,City
+NZL,New Zealand,2127,Canterbury,25183,Hurunui,,NZ.CA.HN,District,District
+NZL,New Zealand,2127,Canterbury,25184,Kaikoura,,NZ.CA.KK,District,District
+NZL,New Zealand,2127,Canterbury,25185,Mackenzie,,NZ.CA.MZ,District,District
+NZL,New Zealand,2127,Canterbury,25186,Selwyn,,NZ.CA.SY,District,District
+NZL,New Zealand,2127,Canterbury,25187,Timaru,,NZ.CA.TU,District,District
+NZL,New Zealand,2127,Canterbury,25188,Waimakariri,,NZ.CA.WR,District,District
+NZL,New Zealand,2127,Canterbury,25189,Waimate,,NZ.CA.WM,District,District
+NZL,New Zealand,2127,Canterbury,25190,Waitaki,,NZ.OT.WI,District,District
+NZL,New Zealand,2129,Gisborne,25192,Gisborne,,NZ.GI.GB,District,District
+NZL,New Zealand,2130,Hawke's Bay,25194,Central Hawke's Bay,,NZ.HB.CH,District,District
+NZL,New Zealand,2130,Hawke's Bay,25195,Hastings,,NZ.HB.HS,District,District
+NZL,New Zealand,2130,Hawke's Bay,25196,Hastings city,,,City,City
+NZL,New Zealand,2130,Hawke's Bay,25197,Napier,,NZ.HB.NR,City,City
+NZL,New Zealand,2130,Hawke's Bay,25198,Wairoa,,NZ.HB.WW,District,District
+NZL,New Zealand,2131,Manawatu-Wanganui,25199,Horowhenua,,NZ.MW.HW,District,District
+NZL,New Zealand,2131,Manawatu-Wanganui,25200,Manawatu,,NZ.MW.MN,District,District
+NZL,New Zealand,2131,Manawatu-Wanganui,25201,Palmerston North,,NZ.MW.PN,City,City
+NZL,New Zealand,2131,Manawatu-Wanganui,25202,Rangitikei,,NZ.MW.RT,District,District
+NZL,New Zealand,2131,Manawatu-Wanganui,25203,Ruapehu,,NZ.MW.RP,District,District
+NZL,New Zealand,2131,Manawatu-Wanganui,25204,Tararua,,NZ.MW.TR,District,District
+NZL,New Zealand,2131,Manawatu-Wanganui,25205,Wanganui,,NZ.MW.WU,District,District
+NZL,New Zealand,2132,Marlborough,25206,Marlborough,,NZ.MA.MB,District,District
+NZL,New Zealand,2133,Nelson,25207,Nelson,,NZ.NE.NL,City,City
+NZL,New Zealand,2133,Nelson,25208,Tasman,,NZ.TS.TM,District,District
+NZL,New Zealand,2134,Northland,25209,Far North,,NZ.NO.FN,District,District
+NZL,New Zealand,2134,Northland,25210,Kaipara,,NZ.NO.KP,District,District
+NZL,New Zealand,2134,Northland,25212,Whangarei,,NZ.NO.WN,District,District
+NZL,New Zealand,2135,Otago,25214,Central Otago,,NZ.OT.CO,District,District
+NZL,New Zealand,2135,Otago,25215,Clutha,,NZ.OT.CL,District,District
+NZL,New Zealand,2135,Otago,25216,Dunedin,,NZ.OT.DU,City,City
+NZL,New Zealand,2135,Otago,25217,Queenstown-Lakes,,NZ.OT.QL,District,District
+NZL,New Zealand,2135,Otago,25219,Waitaki,,NZ.OT.WI,District,District
+NZL,New Zealand,2136,Southland,25222,Gore,,NZ.SO.GO,District,District
+NZL,New Zealand,2136,Southland,25223,Invercargill,,NZ.SO.IC,City,City
+NZL,New Zealand,2136,Southland,25224,Southland,,NZ.SO.SL,District,District
+NZL,New Zealand,2137,Taranaki,25225,New Plymouth,,NZ.TK.NP,District,District
+NZL,New Zealand,2137,Taranaki,25226,South Taranaki,,NZ.TK.ST,District,District
+NZL,New Zealand,2137,Taranaki,25227,Stratford,,NZ.TK.SF,District,District
+NZL,New Zealand,2138,Waikato,25228,Franklin,,NZ.WK.FK,District,District
+NZL,New Zealand,2138,Waikato,25237,Waikato,,NZ.WK.WT,District,District
+NZL,New Zealand,2138,Waikato,25238,Waipa,,NZ.WK.WP,District,District
+NZL,New Zealand,2138,Waikato,25239,Waitomo,,NZ.WK.WO,District,District
+NZL,New Zealand,2139,Wellington,25240,Carterton,,NZ.WG.CR,District,District
+NZL,New Zealand,2139,Wellington,25241,Hutt city,,,City,City
+NZL,New Zealand,2139,Wellington,25242,Kapiti Coast,,NZ.WG.KC,District,District
+NZL,New Zealand,2139,Wellington,25243,Masterton,,NZ.WG.MT,District,District
+NZL,New Zealand,2139,Wellington,25244,Porirua,,NZ.WG.PR,City,City
+NZL,New Zealand,2139,Wellington,25245,South Wairarapa,,NZ.WG.SP,District,District
+NZL,New Zealand,2139,Wellington,25246,Upper Hutt,,NZ.WG.UH,City,City
+NZL,New Zealand,2139,Wellington,25247,Wellington,,NZ.WG.WE,City,City
+NZL,New Zealand,2140,West Coast,25248,Buller,,NZ.WC.BU,District,District
+NZL,New Zealand,2140,West Coast,25249,Grey,,NZ.WC.GR,District,District
+NZL,New Zealand,2140,West Coast,25250,Westland,,NZ.WC.WL,District,District
